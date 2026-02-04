@@ -8,7 +8,7 @@
 - [ ] Pay Telus ($1,000)
 - [ ] Pay Computer Setup ($1,300)
 - [ ] Pay Dad ($100)
-- [ ] Pay Ben ($150)
+- ~~Pay Ben ($150)~~ DONE
 - [ ] Simplify Finn UI further
 
 ## Phone Numbers
