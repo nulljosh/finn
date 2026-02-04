@@ -6,11 +6,12 @@
 <title>Finn</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-body{font-family:system-ui;background:#fff;color:#1d1d1f;padding:16px;margin:0 auto}
+body{font-family:system-ui;background:#fff;color:#1d1d1f;padding:12px;margin:0 auto}
 @media(min-width:768px){body{padding:32px;max-width:900px}}
 body.dark{background:#000;color:#f5f5f7}
 h1{font-size:28px;margin-bottom:32px}
-h2{font-size:16px;color:#666;margin:36px 0 16px}
+h2{font-size:16px;color:#666;margin:24px 0 12px}
+@media(max-width:767px){td{padding:8px 0}h1{font-size:24px;margin-bottom:20px}}
 body.dark h2{color:#888}
 table{width:100%;border-collapse:collapse}
 td{padding:12px 0;border-bottom:1px solid #e5e5e5}
@@ -62,6 +63,10 @@ body.dark .back:hover{color:#f5f5f7}
 <tr class="w"><td><div class="s">Ben</div><div class="m">Back massager and weed</div></td><td>$150</td></tr>
 <tr class="t"><td>Total</td><td class="r">$8,830</td></tr>
 </table>
+<div style="margin-top:12px">
+<div style="display:flex;justify-content:space-between;font-size:12px;color:#666;margin-bottom:4px"><span>Debt Progress</span><span>$0 / $8,830 paid</span></div>
+<div style="height:8px;background:#e5e5e5;border-radius:4px;overflow:hidden"><div style="width:0%;height:100%;background:#34c759;border-radius:4px"></div></div>
+</div>
 
 <h2>Monthly ($1,050, PWD: $1,500)</h2>
 <table>

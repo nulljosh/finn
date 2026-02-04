@@ -10,6 +10,7 @@ No emojis. No AI-speak. No m-dashes. Be direct and concise.
 2. Today's Focus: Check TODO comments, in-progress branches, identify next tasks
 3. Blockers: Check for error logs, failed tests, broken builds, dependencies
 4. Portfolio Check: Summary of performance vs yesterday, any earnings or major events
+   - If no stock positions, skip portfolio performance section.
 
 Format as:
 ```
