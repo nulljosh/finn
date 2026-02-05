@@ -25,6 +25,7 @@
 - Pay off debt. Never get into debt again.
 
 ## Remember
-- Monthly surplus: $510 ($960 with PWD)
-- Debt payoff: ~17 months @ $510/mo, ~9 months with PWD
+- Monthly surplus: $400 ($850 with PWD)
+- Debt payoff: ~22 months @ $400/mo, ~10 months with PWD
+- Claude Max ($140/mo) bills on the 5th of each month
 - Next payday: Feb 25
