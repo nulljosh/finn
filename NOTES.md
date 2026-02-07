@@ -5,7 +5,7 @@
 - [ ] PWD application -- started, waiting on doctor. Follow up.
 - [ ] Pay RBC VISA first ($5,500 -- biggest chunk)
 - [ ] Pay Bell ($780)
-- [ ] Pay Telus ($1,000)
+- [ ] Pay Telus ($788.08 — payment arrangement: $262.69 Mar 2, $262.69 Mar 9, $262.70 Mar 20)
 - [ ] Pay Computer Setup ($1,300)
 - [ ] Pay Dad ($100)
 - ~~Pay Ben ($150)~~ DONE
